@@ -1,0 +1,11 @@
+.git/
+.devcontainer/
+.github/
+target/
+tests/
+.env
+.gitignore
+docker-compose.yaml
+Dockerfile
+init.sql
+README.md
